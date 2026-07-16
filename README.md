@@ -1,4 +1,4 @@
-<img align="right" src="github/assets/image.png" alt="description" width="200" />   
+<img align="right" src="github/assets/alya.png" alt="description" width="200" />   
 <br/>
 
 Hello, I'm Maher, 16 years old, Known as Hiyori, An ordinary VFX Artist and Sound Engineer.<br/>
