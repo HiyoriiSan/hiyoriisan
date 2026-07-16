@@ -2,7 +2,7 @@
 
 <img align="right" src="github/assets/alya.png" alt="description" width="285" />
 
-**Your kawaii gamer, designer, and voice actor. Hiyori!** <img src="github/assets/emotes/1.png" alt="description" width="46" />
+**Your kawaii gamer, designer, and voice actor. Hiyori!** <img src="github/assets/emotes/1.png" alt="description" width="26" />
 
 I program some apps that might be useful to people using vibe coding, enjoy <3
 
