@@ -1,10 +1,18 @@
-<img align="right" src="github/assets/alya.png" alt="description" width="200" />   
+## Hai, My name is Maher, Known as Hiyori
+
+<img align="right" src="github/assets/alya.png" alt="description" width="400" />   
 <br/>
 
-Hello, I'm Maher, 16 years old, Known as Hiyori, An ordinary VFX Artist and Sound Engineer.<br/>
+**Your kawaii gamer, designer, and also voice actor!**<br/>
 
-I play Open-World Games, RPG Games, Platforming Games, Gacha Games, and FPS Games.<br/>
+I program some codes that might be useful to people, this is not my main job soo yah.
+<br/>
+<br/>
 
-I like reading books and listening to Japanese, Nightcore, and Lo-Fi songs, also doing anything sounds fun.<br/>
+## My Repos
+- [HiyoriiSan/discord-selfbot-spam](https://github.com/HiyoriiSan/discord-selfbot-spam)
+- [HiyoriiSan/Minecraft-Tracker-App (Soon)](https://github.com/HiyoriiSan/Minecraft-Tracker-App)
 
-If you want to contact me or chat with me, I'm all yours, Just check my links [here](https://guns.lol/8c.)
+## Stats
+
+<a href="https://osu.ppy.sh/users/ayanokojimaycry"><img src="https://osu-sig.vercel.app/card?user=ayanokojimaycry&mode=std&lang=en&mini=true" align="left"></a>
