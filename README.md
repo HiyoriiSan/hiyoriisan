@@ -17,5 +17,5 @@ I program some apps that might be useful to people using vibe coding, enjoy <3
 
 ## Some interesting repos
 
-- [HiyoriiSan/discord-selfbot-spam](https://github.com/HiyoriiSan/discord-selfbot-spam)
-- [HiyoriiSan/Minecraft-Tracker](https://github.com/HiyoriiSan/Minecraft-Tracker) <- looking for contributes
+- [localhiyori/discord-selfbot-spam](https://github.com/localhiyori/discord-selfbot-spam)
+- [localhiyori/Minecraft-Tracker](https://github.com/localhiyori/Minecraft-Tracker) <- looking for contributes
