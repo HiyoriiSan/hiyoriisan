@@ -2,7 +2,7 @@
 
 <img align="right" src="github/assets/alya.png" alt="description" width="285" />
 
-**Your kawaii gamer, designer, and voice actor. Hiyori!** <img src="github/assets/emotes/1.png" alt="description" width="26" />
+**Your kawaii gamer, designer, voice actor, and vtuber... Cipher!** <img src="github/assets/emotes/1.png" alt="description" width="26" />
 
 I program some apps that might be useful to people using vibe coding, enjoy <3
 
@@ -17,5 +17,5 @@ I program some apps that might be useful to people using vibe coding, enjoy <3
 
 ## Some interesting repos
 
-- [localhiyori/discord-selfbot-spam](https://github.com/localhiyori/discord-selfbot-spam)
-- [localhiyori/Minecraft-Tracker](https://github.com/localhiyori/Minecraft-Tracker) <- looking for contributes
+- [CipherWalls/discord-selfbot-spam](https://github.com/CipherWalls/discord-selfbot-spam)
+- [CipherWalls/Minecraft-Tracker](https://github.com/CipherWalls/Minecraft-Tracker) <- looking for contributes
